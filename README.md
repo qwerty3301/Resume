@@ -23,7 +23,8 @@
 
 - **Git**
 - **Python**
-- 
+- **Selemium**
+- **PlayWright**
  
 
 ## Иностранные языки
