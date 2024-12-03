@@ -18,7 +18,7 @@
 - **Java**
  
 
-- **MySQL/Postgree** 
+- **MySQL/Postgre** 
  
 
 - **Git**
