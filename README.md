@@ -25,6 +25,7 @@
 - **Python**
 - **Selenium**
 - **PlayWright**
+- **HTML/CSS/JS**
  
 
 ## Иностранные языки
