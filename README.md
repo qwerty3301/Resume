@@ -23,7 +23,7 @@
 
 - **Git**
 - **Python**
-- **Selemium**
+- **Selenium**
 - **PlayWright**
  
 
