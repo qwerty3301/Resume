@@ -16,7 +16,7 @@
 ---
 
 - **Java**
- 
+- **Golang**
 
 - **MySQL/Postgre** 
  
@@ -48,12 +48,8 @@
 
 ---
 
-## Учебные проекты
-
 Мой GitHub: [https://github.com/qwerty3301](https://github.com/qwerty3301)
 
-
-- Адаптированный одностраничный сайт (JavaScript, CSS, HTML):  [https://github.com/qwerty3301/NAVI-CSGO-Website](https://github.com/qwerty3301/NAVI-CSGO-Website)
 
 ## О себе
 
